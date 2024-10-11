@@ -1,0 +1,11 @@
+/*importamos el tipo de fuente de letra desde google fonts para nuestra pagina web en este caso importe 2 por que voy a usar los 2 a futuro*/
+
+
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&display=swap');
+
+
+@import url('https://fonts.googleapis.com/css2?family=Edu+AU+VIC+WA+NT+Guides:wght@400..700&display=swap');
+
+
+/*código con el que llamamos a la carpeta font-awesome*/
+@import url("font-awesome/css/fontawesome-all.css");
